@@ -1,0 +1,1 @@
+# inhotel.gr-cgi-sys-suspendedpage.cgi
